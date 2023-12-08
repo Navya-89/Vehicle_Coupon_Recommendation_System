@@ -38,9 +38,13 @@ Science Direct for machine learning models
 # Group 11
 
 Team Member                  NUID
+
 Achala Shenoy              002736738
+
 Ankita Shukla              002920460
+
 Navya Pragathi Molugaram   002774072
+
 Sanidhya Mathur            002766999
 
 
