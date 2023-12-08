@@ -28,3 +28,19 @@ Feature engineering plays a pivotal role in enhancing the interpretability of th
 4. Significance
 
 Understanding the factors that drive consumer behavior concerning coupon redemption has far-reaching implications for businesses in the dining industry. It enables targeted marketing efforts, resource optimization, and the crafting of more personalized and effective promotional campaigns. The insights derived from this project have the potential to contribute to the refinement of marketing strategies, resulting in increased customer engagement and satisfaction.
+
+# References
+
+UCI Machine Learning Repository
+
+Science Direct for machine learning models	
+
+# Group 11
+
+Team Member                  NUID
+Achala Shenoy              002736738
+Ankita Shukla              002920460
+Navya Pragathi Molugaram   002774072
+Sanidhya Mathur            002766999
+
+
